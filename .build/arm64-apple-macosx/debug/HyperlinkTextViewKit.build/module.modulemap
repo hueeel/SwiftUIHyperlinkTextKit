@@ -1,0 +1,4 @@
+module HyperlinkTextViewKit {
+    header "/Users/kbsysm2/Desktop/개발/오픈소스/HyperlinkTextViewKit/.build/arm64-apple-macosx/debug/HyperlinkTextViewKit.build/HyperlinkTextViewKit-Swift.h"
+    requires objc
+}
