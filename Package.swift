@@ -4,7 +4,7 @@ import PackageDescription
 let package = Package(
     name: "SwiftUIHyperlinkTextKit",      // ← 패키지/모듈 이름
     platforms: [
-        .iOS(.v13)                     // 최소 지원 버전
+        .iOS(.v16)                     // 최소 지원 버전
     ],
     products: [
         .library(
