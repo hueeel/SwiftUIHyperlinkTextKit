@@ -1,0 +1,41 @@
+{
+  "": {
+    "swift-dependencies": "/Users/kbsysm2/Desktop/개발/오픈소스/SwiftUIHyperlinkTextKit/.build/arm64-apple-macosx/debug/SwiftUIHyperlinkTextKit.build/master.swiftdeps"
+  },
+  "/Users/kbsysm2/Desktop/개발/오픈소스/SwiftUIHyperlinkTextKit/Sources/SwiftUIHyperlinkTextKit/HyperLinkTextRepresentableView.swift": {
+    "dependencies": "/Users/kbsysm2/Desktop/개발/오픈소스/SwiftUIHyperlinkTextKit/.build/arm64-apple-macosx/debug/SwiftUIHyperlinkTextKit.build/HyperLinkTextRepresentableView.d",
+    "object": "/Users/kbsysm2/Desktop/개발/오픈소스/SwiftUIHyperlinkTextKit/.build/arm64-apple-macosx/debug/SwiftUIHyperlinkTextKit.build/HyperLinkTextRepresentableView.swift.o",
+    "swiftmodule": "/Users/kbsysm2/Desktop/개발/오픈소스/SwiftUIHyperlinkTextKit/.build/arm64-apple-macosx/debug/SwiftUIHyperlinkTextKit.build/HyperLinkTextRepresentableView~partial.swiftmodule",
+    "swift-dependencies": "/Users/kbsysm2/Desktop/개발/오픈소스/SwiftUIHyperlinkTextKit/.build/arm64-apple-macosx/debug/SwiftUIHyperlinkTextKit.build/HyperLinkTextRepresentableView.swiftdeps"
+  },
+  "/Users/kbsysm2/Desktop/개발/오픈소스/SwiftUIHyperlinkTextKit/Sources/SwiftUIHyperlinkTextKit/HyperlinkAttributedBuilder.swift": {
+    "dependencies": "/Users/kbsysm2/Desktop/개발/오픈소스/SwiftUIHyperlinkTextKit/.build/arm64-apple-macosx/debug/SwiftUIHyperlinkTextKit.build/HyperlinkAttributedBuilder.d",
+    "object": "/Users/kbsysm2/Desktop/개발/오픈소스/SwiftUIHyperlinkTextKit/.build/arm64-apple-macosx/debug/SwiftUIHyperlinkTextKit.build/HyperlinkAttributedBuilder.swift.o",
+    "swiftmodule": "/Users/kbsysm2/Desktop/개발/오픈소스/SwiftUIHyperlinkTextKit/.build/arm64-apple-macosx/debug/SwiftUIHyperlinkTextKit.build/HyperlinkAttributedBuilder~partial.swiftmodule",
+    "swift-dependencies": "/Users/kbsysm2/Desktop/개발/오픈소스/SwiftUIHyperlinkTextKit/.build/arm64-apple-macosx/debug/SwiftUIHyperlinkTextKit.build/HyperlinkAttributedBuilder.swiftdeps"
+  },
+  "/Users/kbsysm2/Desktop/개발/오픈소스/SwiftUIHyperlinkTextKit/Sources/SwiftUIHyperlinkTextKit/HyperlinkModel.swift": {
+    "dependencies": "/Users/kbsysm2/Desktop/개발/오픈소스/SwiftUIHyperlinkTextKit/.build/arm64-apple-macosx/debug/SwiftUIHyperlinkTextKit.build/HyperlinkModel.d",
+    "object": "/Users/kbsysm2/Desktop/개발/오픈소스/SwiftUIHyperlinkTextKit/.build/arm64-apple-macosx/debug/SwiftUIHyperlinkTextKit.build/HyperlinkModel.swift.o",
+    "swiftmodule": "/Users/kbsysm2/Desktop/개발/오픈소스/SwiftUIHyperlinkTextKit/.build/arm64-apple-macosx/debug/SwiftUIHyperlinkTextKit.build/HyperlinkModel~partial.swiftmodule",
+    "swift-dependencies": "/Users/kbsysm2/Desktop/개발/오픈소스/SwiftUIHyperlinkTextKit/.build/arm64-apple-macosx/debug/SwiftUIHyperlinkTextKit.build/HyperlinkModel.swiftdeps"
+  },
+  "/Users/kbsysm2/Desktop/개발/오픈소스/SwiftUIHyperlinkTextKit/Sources/SwiftUIHyperlinkTextKit/HyperlinkParser.swift": {
+    "dependencies": "/Users/kbsysm2/Desktop/개발/오픈소스/SwiftUIHyperlinkTextKit/.build/arm64-apple-macosx/debug/SwiftUIHyperlinkTextKit.build/HyperlinkParser.d",
+    "object": "/Users/kbsysm2/Desktop/개발/오픈소스/SwiftUIHyperlinkTextKit/.build/arm64-apple-macosx/debug/SwiftUIHyperlinkTextKit.build/HyperlinkParser.swift.o",
+    "swiftmodule": "/Users/kbsysm2/Desktop/개발/오픈소스/SwiftUIHyperlinkTextKit/.build/arm64-apple-macosx/debug/SwiftUIHyperlinkTextKit.build/HyperlinkParser~partial.swiftmodule",
+    "swift-dependencies": "/Users/kbsysm2/Desktop/개발/오픈소스/SwiftUIHyperlinkTextKit/.build/arm64-apple-macosx/debug/SwiftUIHyperlinkTextKit.build/HyperlinkParser.swiftdeps"
+  },
+  "/Users/kbsysm2/Desktop/개발/오픈소스/SwiftUIHyperlinkTextKit/Sources/SwiftUIHyperlinkTextKit/HyperlinkUivewTextView.swift": {
+    "dependencies": "/Users/kbsysm2/Desktop/개발/오픈소스/SwiftUIHyperlinkTextKit/.build/arm64-apple-macosx/debug/SwiftUIHyperlinkTextKit.build/HyperlinkUivewTextView.d",
+    "object": "/Users/kbsysm2/Desktop/개발/오픈소스/SwiftUIHyperlinkTextKit/.build/arm64-apple-macosx/debug/SwiftUIHyperlinkTextKit.build/HyperlinkUivewTextView.swift.o",
+    "swiftmodule": "/Users/kbsysm2/Desktop/개발/오픈소스/SwiftUIHyperlinkTextKit/.build/arm64-apple-macosx/debug/SwiftUIHyperlinkTextKit.build/HyperlinkUivewTextView~partial.swiftmodule",
+    "swift-dependencies": "/Users/kbsysm2/Desktop/개발/오픈소스/SwiftUIHyperlinkTextKit/.build/arm64-apple-macosx/debug/SwiftUIHyperlinkTextKit.build/HyperlinkUivewTextView.swiftdeps"
+  },
+  "/Users/kbsysm2/Desktop/개발/오픈소스/SwiftUIHyperlinkTextKit/Sources/SwiftUIHyperlinkTextKit/MessageRouter.swift": {
+    "dependencies": "/Users/kbsysm2/Desktop/개발/오픈소스/SwiftUIHyperlinkTextKit/.build/arm64-apple-macosx/debug/SwiftUIHyperlinkTextKit.build/MessageRouter.d",
+    "object": "/Users/kbsysm2/Desktop/개발/오픈소스/SwiftUIHyperlinkTextKit/.build/arm64-apple-macosx/debug/SwiftUIHyperlinkTextKit.build/MessageRouter.swift.o",
+    "swiftmodule": "/Users/kbsysm2/Desktop/개발/오픈소스/SwiftUIHyperlinkTextKit/.build/arm64-apple-macosx/debug/SwiftUIHyperlinkTextKit.build/MessageRouter~partial.swiftmodule",
+    "swift-dependencies": "/Users/kbsysm2/Desktop/개발/오픈소스/SwiftUIHyperlinkTextKit/.build/arm64-apple-macosx/debug/SwiftUIHyperlinkTextKit.build/MessageRouter.swiftdeps"
+  }
+}

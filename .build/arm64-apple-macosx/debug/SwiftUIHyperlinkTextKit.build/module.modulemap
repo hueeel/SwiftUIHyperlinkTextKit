@@ -1,0 +1,4 @@
+module SwiftUIHyperlinkTextKit {
+    header "/Users/kbsysm2/Desktop/개발/오픈소스/SwiftUIHyperlinkTextKit/.build/arm64-apple-macosx/debug/SwiftUIHyperlinkTextKit.build/SwiftUIHyperlinkTextKit-Swift.h"
+    requires objc
+}
